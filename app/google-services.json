@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839251616393",
+    "firebase_url": "https://kartero2-455ad.firebaseio.com",
+    "project_id": "kartero2-455ad",
+    "storage_bucket": "kartero2-455ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839251616393:android:05480627240b418e",
+        "android_client_info": {
+          "package_name": "com.example.l156435_p107855.kartero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839251616393-7drkm81deo0u41rf4gq36nnbi87s1834.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.l156435_p107855.kartero",
+            "certificate_hash": "106EFE4F3769B9EB86A37D25F0DBA3A87E7DA021"
+          }
+        },
+        {
+          "client_id": "839251616393-h25lkrt2kkq22f5pgblc9evorie88q31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEV_-TwYPUH0tCqqDjQfrrcZ4qYbf6f1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839251616393-h25lkrt2kkq22f5pgblc9evorie88q31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
